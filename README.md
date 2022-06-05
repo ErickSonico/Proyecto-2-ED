@@ -14,4 +14,13 @@ El menú contiene las siguientes opciones:
 
 ### Ordenamiento utilizado
 Se hace uso del algoritmo de ordenamiento BubbleSort, con una modificación para que ordene dos arreglos, uno con elementos tipo *int* y otro de *Strings*
-### 
+### Paquetes usados
+Se usaron los siguientes paquetes de java
+
+- javax.swing.JPanel
+- javax.swing.JFrame
+- javax.swing.*
+- java.awt.Graphics
+- java.awt.Color
+- java.util.Hashtable
+- java.util.InputMismatchException
