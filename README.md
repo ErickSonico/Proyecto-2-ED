@@ -14,6 +14,7 @@ El menú contiene las siguientes opciones:
 
 ### Ordenamiento utilizado
 Se hace uso del algoritmo de ordenamiento BubbleSort, con una modificación para que ordene dos arreglos, uno con elementos tipo *int* y otro de *Strings*
+
 ### Paquetes usados
 Se usaron los siguientes paquetes de java
 
@@ -24,3 +25,15 @@ Se usaron los siguientes paquetes de java
 - java.awt.Color
 - java.util.Hashtable
 - java.util.InputMismatchException
+
+### Entorno donde fue probado
+- Ubuntu 20.04.3
+
+### Funcionamiento
+
+Es necesario ejecutar los siguientes dos comandos en la terminal. Suponiendo que está en la carpeta src:
+```
+javac Prueba.java
+java Prueba
+```
+
