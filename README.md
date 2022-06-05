@@ -12,5 +12,6 @@ El menú contiene las siguientes opciones:
 5. Salir
 ```
 
+### Ordenamiento utilizado
 Se hace uso del algoritmo de ordenamiento BubbleSort, con una modificación para que ordene dos arreglos, uno con elementos tipo *int* y otro de *Strings*
-
+###
