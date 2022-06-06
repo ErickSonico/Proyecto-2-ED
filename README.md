@@ -11,6 +11,7 @@ El menú contiene las siguientes opciones:
 4. Imprimir ́arbol de alumnos
 5. Salir
 ```
+Se usó una tabla hash para guardar los datos de los alumnos. El número de cuenta también se almacena en un árbol binario para que se pueda imprimir en la opción 4.
 
 ### Ordenamiento utilizado
 Se hace uso del algoritmo de ordenamiento BubbleSort, con una modificación para que ordene dos arreglos, uno con elementos tipo *int* y otro de *Strings*
