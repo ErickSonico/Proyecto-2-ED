@@ -36,4 +36,4 @@ Es necesario ejecutar los siguientes dos comandos en la terminal. Suponiendo que
 javac Prueba.java
 java Prueba
 ```
-
+Para ejecutar el programa con las imágenes, estas se deben sacar de la carpeta donde se encuentran y colocarse al nivel de la clase Prueba.
